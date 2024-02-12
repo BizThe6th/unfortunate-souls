@@ -1,0 +1,23 @@
+//  insert additionalnpctypes unf_victim
+{
+	"type": "unf_victim",
+	"baseType": "villager",
+	"persistent": true,
+	"damageTeamType": "friendly",
+	"aggressive": false,
+	"scriptConfig": {
+
+
+		"reactions" : {
+			"spontaneous" : [
+				[5.0, "sleep", { "timeRange" : [0.7, 0.9] }],
+				[1.0, "sit", { "timeRange" : [0.6,0.2]}],
+				[1.0, "wander"]
+			]
+		},
+		"dialog": {
+			"greeting": "/dialog/unf_converse.config:greeting",
+			"converse": "/dialog/unf_converse.config:converse"
+		}
+	}
+}

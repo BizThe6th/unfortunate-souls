@@ -1,0 +1,8 @@
+{
+	"name": "unfortunateSouls",
+	"author": "BizThe6th",
+	"description": "^orange;Biz's Unfortunate souls^reset;\n\nA mod for hate-fuckers. Non-Con is expected.",
+	"version": "alpha 1.0",
+	"friendlyName": "Biz's Unfortunate Souls",
+	"requires": [ "lox_sexbound" ]
+}
