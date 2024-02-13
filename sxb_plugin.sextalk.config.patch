@@ -1,0 +1,10 @@
+[
+	{
+		"op": "add",
+		"path": "/skipMergeDefaultDialog/npcType",
+		"value": [
+			"unf_victim",
+			"unf_child"
+		]
+	}
+]

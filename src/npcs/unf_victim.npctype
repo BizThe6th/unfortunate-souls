@@ -6,17 +6,36 @@
 	"damageTeamType": "friendly",
 	"aggressive": false,
 	"scriptConfig": {
-
-
-		"reactions" : {
-			"spontaneous" : [
-				[5.0, "sleep", { "timeRange" : [0.7, 0.9] }],
-				[1.0, "sit", { "timeRange" : [0.6,0.2]}],
-				[1.0, "wander"]
+		"reactions": {
+			"spontaneous": [
+				[
+					5.0,
+					"sleep",
+					{
+						"timeRange": [
+							0.7,
+							0.9
+						]
+					}
+				],
+				[
+					1.0,
+					"sit",
+					{
+						"timeRange": [
+							0.6,
+							0.2
+						]
+					}
+				],
+				[
+					1.0,
+					"wander"
+				]
 			]
 		},
 		"dialog": {
-			"greeting": "/dialog/unf_converse.config:greeting",
+			"greeting": "/dialog/unf_converse.config:converse",
 			"converse": "/dialog/unf_converse.config:converse"
 		}
 	}

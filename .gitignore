@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### User-defined ###
+#   This is Biz's batch file for updating their starbound folder
+/addMod.bat
+/addNRun.bat
+/test.bat
+

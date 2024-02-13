@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnfourtunateSouls.iml" filepath="$PROJECT_DIR$/UnfourtunateSouls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnfortunateSouls.iml" filepath="$PROJECT_DIR$/UnfortunateSouls.iml" />
       <module fileurl="file://D:/SteamLibrary/steamapps/common/Starbound/mods/sexbound/sexbound.iml" filepath="D:/SteamLibrary/steamapps/common/Starbound/mods/sexbound/sexbound.iml" />
       <module fileurl="file://D:/SteamLibrary/steamapps/common/Starbound/assets/packed/starbound assets.iml" filepath="D:/SteamLibrary/steamapps/common/Starbound/assets/packed/starbound assets.iml" />
     </modules>

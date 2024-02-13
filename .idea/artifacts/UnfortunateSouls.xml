@@ -2,7 +2,7 @@
   <artifact name="UnfortunateSouls">
     <output-path>D:/SteamLibrary/steamapps/common/Starbound/mods/UnfortunateSouls</output-path>
     <root id="root">
-      <element id="module-source" name="UnfourtunateSouls" />
+      <element id="module-source" name="UnfortunateSouls" />
     </root>
   </artifact>
 </component>
